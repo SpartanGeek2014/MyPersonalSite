@@ -1,0 +1,103 @@
+//style info for website//
+
+body {
+    background-color: lightblue;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+div {
+	margin: auto;
+	width: 700px;
+	border: 3px solid blue;
+	padding: 5px;
+	align: center;
+	border-radius: 5px;
+}
+
+.info {
+	margin: auto;
+	width: 600px;
+	border: 3px solid blue;
+	padding: 5px;
+	text-align: center;
+}
+
+.info_1 {
+	margin: auto;
+	width: 600px;
+	border: 3px solid blue;
+	padding: 5px;
+	}
+
+.info_2 {
+	margin: auto;
+	width: 600px;
+	border: 3px solid blue;
+	padding: 5px;
+	}
+
+  .links {
+    font-size: 24px;
+  	margin: auto;
+  	width: 600px;
+  	border: 3px solid blue;
+  	padding: 5px;
+  	text-align: center;
+  }
+
+  .links a:hover {
+    color: yellow;
+    background-color: black;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+
+.contact_info {
+	text-align: center;
+	font: 24px arial, sans-serif;
+	color: blue;
+}
+
+.contact_info a:hover {
+  color: yellow;
+  background-color: black;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+	text-align: center;
+	font-size: 34px;
+}
+
+h2 {
+	text-align: center;
+}
+
+nav {
+	margin: 5px;
+	width: 400px;
+	border: 3px solid blue;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.topnav {
+	margin: auto;
+	width: 400px;
+	font: 16px arial, sans-serif;
+	text-align: center;
+	color: blue;
+	border: 3px solid #66c2ff;
+	padding: 5px;
+}
+
+.topnav a:hover {
+	background-color: red;
+	color: white;
+	border-radius: 3px;
+}
